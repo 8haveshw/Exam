@@ -17,6 +17,7 @@ public class SecondHighest {
 		}
 
 		System.out.println("Second highest element is " + arr[arr.length - 2]);
+			System.out.println("Changing in git hub");
 
 	}
 }
